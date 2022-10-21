@@ -9,6 +9,5 @@ For this week’s challenge, use the 5 datasets provided to find the cities that
 
 Your output should list the teams and their leagues for those cities. Note that some of the city information is missing a state, but you can grab those missing values from another dataset that has the same city! 
 
-
-                            ![NBA](https://user-images.githubusercontent.com/63620777/197277660-faf0c3a9-9f82-4e88-85cb-1e4ce566c9fe.png)
+![NBA](https://user-images.githubusercontent.com/63620777/197277660-faf0c3a9-9f82-4e88-85cb-1e4ce566c9fe.png)
 
